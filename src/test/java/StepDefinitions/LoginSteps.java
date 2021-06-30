@@ -21,7 +21,7 @@ public class LoginSteps {
 		//throw new io.cucumber.java.PendingException();
 		System.out.println("some other precondition");
 	}
-	@And("I complete action")
+	@And("I complete action test")
 	public void I_complete_action( ) {
 		// Write code here that turns the phrase above into concrete actions
 		//throw new io.cucumber.java.PendingException();
