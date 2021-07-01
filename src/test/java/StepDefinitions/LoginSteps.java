@@ -25,7 +25,7 @@ public class LoginSteps {
 	public void I_complete_action( ) {
 		// Write code here that turns the phrase above into concrete actions
 		//throw new io.cucumber.java.PendingException();
-		System.out.println("complete action");
+		System.out.println("completed action");
 	}
 	@Then("I should be told {string}")
 	public void i_should_be_told(String string) {
